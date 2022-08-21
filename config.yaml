@@ -1,0 +1,17 @@
+baseURL: https://imeiami.com
+languageCode: en-us
+title: IMEIAMI
+
+disableKinds : ["taxonomy", "term","RSS"]
+
+
+params:
+  includeBootstrapJs: false
+  showActiveNav: true
+  containerMaxWidth: 700px
+  dateFormat: Jan 2, 2006
+  homeText: Site under construction.
+  footerText: made by alesoft
+  hideFooter: true
+  katex: false
+
